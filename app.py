@@ -8,9 +8,17 @@ import pickle
 MODEL_PATH = "models_classification/final_model_pipeline.pkl"
 LE_PATH = "models_classification/label_encoder.pkl"
 
-model = pickle.load(MODEL_PATH)
+@st.cache_resource
+def load_model():
+    with open(MODEL_PATH, "rb") as f:
+        model = pickle.load(f)
+    return model
+
+model = load_model()
+
 try:
-    le = pickle.load(LE_PATH)  # if saved separately
+    with open(LE_PATH, "rb") as f:
+        le = pickle.load(f) # if saved separately
 except:
     le = None
 
