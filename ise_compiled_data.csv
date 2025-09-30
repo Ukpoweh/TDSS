@@ -1,0 +1,211 @@
+State,Road_ID,Name,Type,Latitude,Longitude,Surface,Lane,Bulk_Density (g/cm³),Clay (%),Sand (%),Silt (%),pH,Avg_Temperature (°C),Annual_Precipitation (mm),Approximate Length (km),Surface material,Estimated_CBR (%),ADT (veh/day),ESAL (20yr),Pavement_Thickness (mm)
+Abia,204468394,Aba - Ikot Ekpene Road,trunk,5.112276,7.4284235,paved,2,1.32,16.8,74.3,8.9,5.2,25.71,6.34,,Unknown/Under rehabilitation,21,20000,39420000,316
+Abia,204587925,Enugu - Port Harcourt Expressway,trunk,5.3035249,7.3928331,paved,2,1.3,16.8,75.3,7.9,5.3,25.51,4.9,51.6,Hot Mix Asphalt,21.2,20000,39420000,315.6
+Adamawa,185873548,Adamawa_Road_1,trunk,10.3388226,13.1620365,paved,2,1.4,21.4,51.9,26.7,6.7,26.38,2.65,,Unknown/Under rehabilitation,13.8,20000,39420000,335.8
+Adamawa,185873562,Adamawa_Road_4,trunk,10.284543,13.1026671,paved,2,1.42,23.4,47.9,28.7,6.6,26.38,2.65,,Unknown/Under rehabilitation,12.3,20000,39420000,342.9
+Adamawa,185873572,Adamawa_Road_6,trunk,10.9131324,13.6400854,paved,2,1.45,16,60.4,23.5,6.3,27.09,1.92,,Unknown/Under rehabilitation,17.7,20000,39420000,323.1
+Adamawa,185873578,Adamawa_Road_7,trunk,10.4387774,13.2043092,paved,2,1.45,24.2,51.5,24.4,6.7,26.38,2.65,,Unknown/Under rehabilitation,13.4,20000,39420000,337.6
+Adamawa,188287803,Adamawa_Road_8,trunk,9.9874723,11.9597557,paved,2,1.38,26,43,31,6.3,27.12,2.85,,Unknown/Under rehabilitation,10.1,20000,39420000,357.1
+Adamawa,188287804,Adamawa_Road_9,trunk,10.0137091,11.9653308,paved,2,1.39,31.6,39.9,28.5,6.5,27.12,2.85,,Unknown/Under rehabilitation,8.1,20000,39420000,376.6
+Adamawa,206886336,Adamawa_Road_10,trunk,9.470115,12.0348773,paved,1,1.38,35.8,37.2,27,6.6,27.62,2.52,,Unknown/Under rehabilitation,6.4,20000,39420000,402.9
+Adamawa,206886338,Adamawa_Road_12,trunk,9.4719679,12.0342037,paved,2,1.37,35.6,37,27.4,6.6,27.62,2.52,,Unknown/Under rehabilitation,6.3,20000,39420000,404.9
+Adamawa,206886341,Adamawa_Road_15,trunk,9.4733487,12.0337544,paved,2,1.31,39.3,34.8,25.9,6.6,27.62,2.52,,Unknown/Under rehabilitation,4.6,20000,39420000,451.8
+Adamawa,206886346,Adamawa_Road_18,trunk,9.4700738,12.0348111,paved,1,1.38,35.8,37.2,27,6.6,27.62,2.52,,Unknown/Under rehabilitation,6.4,20000,39420000,402.9
+Akwa Ibom,281954494,Calabar - Itu Road,trunk,5.1777747,8.0516398,paved,2,1.24,12.7,71.7,15.5,5.3,25.86,8.03,,Unknown/Under rehabilitation,20.7,20000,39420000,316.5
+Akwa Ibom,281954496,Akwa Ibom_Road_7,trunk,5.1594468,7.9866526,paved,2,1.31,15.3,76.1,8.6,5.1,25.86,8.03,,Unknown/Under rehabilitation,21.8,20000,39420000,314.6
+Akwa Ibom,281954499,Calabar - Itu Road,trunk,5.1788848,8.0576693,paved,2,1.26,12.4,72.8,14.9,5.3,25.86,8.03,,Unknown/Under rehabilitation,21.2,20000,39420000,315.6
+Akwa Ibom,281954503,Calabar - Itu Road,trunk,5.1788713,8.0636593,paved,2,1.27,12.5,74.3,13.2,5.5,25.86,8.03,,Unknown/Under rehabilitation,21.6,20000,39420000,314.9
+Anambra,180189341,Anambra_Road_13,trunk,6.2262344,6.9744587,paved,2,1.39,18.1,59.2,22.7,5.5,25.59,4.67,,Unknown/Under rehabilitation,16.6,20000,39420000,326.1
+Anambra,239302888,Onitsha - Owerri Road,trunk,5.9228821,6.8578922,paved,2,1.38,13.7,72.2,14.1,5.5,25.59,4.67,35.3,Hot Mix Asphalt,21.3,20000,39420000,315.4
+Bayelsa,26702408,Bayelsa_Road_1,primary,5.2013064,6.2149028,paved,2,1.3,34.1,28.1,37.8,5.1,25.86,6.45,18,Hot Mix Asphalt,3.6,10000,19710000,491.1
+Bayelsa,40127837,Bayelsa_Road_3,primary,5.0822948,6.4141048,paved,2,1.28,27.4,33.4,39.2,5.1,25.86,6.45,18,Hot Mix Asphalt,6.4,10000,19710000,393.8
+Bayelsa,374311522,Bayelsa_Road_5,primary,5.0405128,6.3991627,paved,2,1.33,24,36.5,39.5,5.2,25.86,6.45,18,Hot Mix Asphalt,8.3,10000,19710000,365.2
+Bayelsa,377591152,Bayelsa_Road_8,secondary,4.9389914,6.3373432,paved,2,1.34,27.7,37.3,35.1,5.2,25.86,6.45,18,Hot Mix Asphalt,7.8,4000,7884000,359.5
+Bayelsa,377600046,Isaac Boro Expressway,primary,4.9449721,6.3447454,paved,2,1.33,26.4,39.5,34.1,5.3,25.86,6.45,18,Hot Mix Asphalt,8.7,10000,19710000,360.8
+Bayelsa,377600049,Bayelsa_Road_11,secondary,4.8932731,6.3095426,paved,2,1.31,31.2,20,48.8,5.2,25.86,6.45,18,Hot Mix Asphalt,1.8,4000,7884000,701.3
+Bayelsa,377600052,Isaac Boro Expressway,primary,4.9221104,6.3132506,paved,2,1.31,29.2,35.7,35.1,5.3,25.86,6.45,18,Hot Mix Asphalt,6.9,10000,19710000,384.8
+Benue,181916648,Benue_Road_10,trunk,7.305205,9.4479122,paved,2,1.37,20,59.6,20.4,5.7,25.85,3.47,,Unknown/Under rehabilitation,16.2,20000,39420000,327.3
+Borno,23576917,Borno_Road_0,trunk,11.4328116,13.7601717,paved,2,1.53,23.9,51.6,24.4,6.7,28.54,1.62,,Unknown/Under rehabilitation,13.8,20000,39420000,335.8
+Borno,185014417,Kano-Maiduguri Highway,trunk,11.8424974,13.0471123,paved,2,1.51,16.7,63,20.3,6.6,28.45,1.49,1502,Hot Mix Asphalt,18.6,20000,39420000,320.9
+Borno,185886967,Borno_Road_15,trunk,11.0340949,12.6354467,paved,2,1.48,17.1,59.8,23.1,6.5,26.84,2.38,,Unknown/Under rehabilitation,17.4,20000,39420000,323.8
+Borno,185886969,Borno_Road_16,trunk,10.7692683,12.3693194,paved,2,1.49,19.2,58.9,21.9,6.5,26.84,2.38,,Unknown/Under rehabilitation,16.8,20000,39420000,325.5
+Borno,185886970,Borno_Road_17,trunk,11.4754414,12.9372736,paved,2,1.49,20,51.9,28.1,6.6,28.1,1.72,,Unknown/Under rehabilitation,14.5,20000,39420000,333
+Borno,188287804,Borno_Road_18,trunk,10.0137091,11.9653308,paved,2,1.39,31.6,39.9,28.5,6.5,27.12,2.85,,Unknown/Under rehabilitation,8.1,20000,39420000,376.6
+Cross River,23575660,Cross River_Road_0,trunk,5.9513338,8.7144382,paved,2,1.31,26.6,51.9,21.5,5.4,25.51,5.43,,Unknown/Under rehabilitation,12.3,20000,39420000,342.9
+Cross River,30062983,Cross River_Road_7,trunk,6.4649096,8.5314189,paved,2,1.43,26.7,50.9,22.4,5.6,25.48,4.82,,Unknown/Under rehabilitation,12.6,20000,39420000,341.4
+Cross River,30063022,Cross River_Road_9,trunk,5.9457083,8.6676293,paved,2,1.32,29.3,53.2,17.5,5.5,25.51,5.43,,Unknown/Under rehabilitation,12.2,20000,39420000,343.4
+Cross River,30063104,Cross River_Road_10,trunk,5.9665721,8.2714266,paved,2,1.38,22.2,62.2,15.5,5.6,25.75,4.69,,Unknown/Under rehabilitation,16.6,20000,39420000,326.1
+Cross River,30063126,Calabar - Itu Road,trunk,5.1768953,8.0719157,paved,2,1.24,14.5,72.6,12.8,5.4,25.86,8.03,,Unknown/Under rehabilitation,20.6,20000,39420000,316.7
+Cross River,79854028,Cross River_Road_14,trunk,6.362095,8.6726677,paved,2,1.35,25.1,56.6,18.3,5.7,25.48,4.82,,Unknown/Under rehabilitation,14.2,20000,39420000,334.2
+Cross River,79854160,Cross River_Road_15,trunk,6.1826436,8.6430191,paved,2,1.35,21.9,58,20.1,5.6,25.51,5.43,,Unknown/Under rehabilitation,15.3,20000,39420000,330.2
+Cross River,208181949,Ogoja-Abakaliki Road,trunk,6.3797169,8.4609833,paved,2,1.4,22.8,56.5,20.6,5.7,25.48,4.82,86,Hot Mix Asphalt,14.9,20000,39420000,331.6
+Cross River,208182839,Ogoja-Abakaliki Road,trunk,6.4098128,8.4688884,paved,2,1.39,25.2,53.5,21.4,5.6,25.48,4.82,86,Hot Mix Asphalt,13.5,20000,39420000,337.1
+Delta,170788117,Delta_Road_1,trunk,5.8529908,5.73221,paved,2,1.28,22,61.2,16.9,5.4,25.71,4.96,,Unknown/Under rehabilitation,15.9,20000,39420000,328.2
+Delta,170788146,Delta_Road_4,trunk,5.6494145,5.7675227,paved,2,1.28,22.1,54.9,23,5.2,25.84,5.1,,Unknown/Under rehabilitation,13.9,20000,39420000,335.4
+Delta,173874654,Delta_Road_5,trunk,6.0003838,5.6859689,paved,2,1.35,14,74.7,11.3,5.4,25.71,4.96,,Unknown/Under rehabilitation,21.9,20000,39420000,314.4
+Delta,232950285,OyoheLoop,trunk,5.8046244,5.7350918,paved,2,1.29,21.2,64.9,13.9,5.3,25.71,4.96,,Unknown/Under rehabilitation,17.2,20000,39420000,324.4
+Ebonyi,210192957,Ogoja-Abakaliki Road,trunk,6.3369277,8.2394271,paved,2,1.42,24,50.2,25.8,5.5,25.65,4.21,86,Hot Mix Asphalt,12.9,20000,39420000,339.9
+Ebonyi,210192974,Ogoja-Abakaliki Road,trunk,6.3078573,8.1486006,paved,2,1.43,19.4,53,27.6,5.6,25.65,4.21,86,Hot Mix Asphalt,14.7,20000,39420000,332.3
+Ebonyi,286348030,Ogoja-Abakaliki Road,trunk,6.3652803,8.3322221,paved,2,1.4,22.9,51.6,25.5,5.6,25.65,4.21,86,Hot Mix Asphalt,13.4,20000,39420000,337.6
+Ebonyi,286348038,Ogoja-Abakaliki Road,trunk,6.3074082,8.1226651,paved,2,1.4,21.2,56.6,22.3,5.4,25.65,4.21,86,Hot Mix Asphalt,15.2,20000,39420000,330.5
+Ebonyi,286348041,Ogoja-Abakaliki Road,trunk,6.3654912,8.3300943,paved,2,1.39,23.2,51.2,25.6,5.5,25.65,4.21,86,Hot Mix Asphalt,13.2,20000,39420000,338.5
+Ebonyi,286884758,Ogoja-Abakaliki Road,trunk,6.3727249,8.3786569,paved,2,1.43,25.2,50.2,24.6,5.6,25.65,4.21,86,Hot Mix Asphalt,12.7,20000,39420000,340.9
+Ebonyi,208190887,Enugu-Abakaliki Road,trunk,6.4509894,7.7633647,paved,2,1.39,22.3,52.1,25.6,5.6,25.35,4.18,80,Hot Mix Asphalt + CRCP,13.6,20000,39420000,336.7
+Enugu,79965708,Enugu_Road_1,trunk,6.4673827,7.4601577,paved,2,1.39,22.7,55.3,22,5.4,25.35,4.18,80,Hot Mix Asphalt + CRCP,14.5,20000,39420000,333
+Enugu,233922616,Enugu - Port Harcourt Expressway,trunk,6.1409297,7.4607823,paved,2,1.28,21.3,66.2,12.6,5.4,25.55,4.53,56.1,Hot Mix Asphalt,17.5,20000,39420000,323.6
+Gombe,208376326,GOMBE - YOLA ROAD,trunk,10.2901913,11.1169643,paved,2,1.39,18.5,62.7,18.8,6.6,26.85,2.49,,Unknown/Under rehabilitation,17.6,20000,39420000,323.3
+Gombe,209807541,Gombe_Road_1,trunk,9.8899353,11.2475442,paved,2,1.36,17.5,62.9,19.6,6.8,26.21,2.63,,Unknown/Under rehabilitation,17.7,20000,39420000,323.1
+Gombe,209807546,Gombe_Road_2,trunk,9.9426897,11.2135589,paved,2,1.39,17.8,59.1,23.2,6.6,26.21,2.63,,Unknown/Under rehabilitation,16.6,20000,39420000,326.1
+Gombe,266944942,Gombe_Road_5,trunk,9.7077801,11.4431328,paved,2,1.34,16.8,60.8,22.4,6.5,26.65,2.54,,Unknown/Under rehabilitation,17.1,20000,39420000,324.7
+Gombe,266945625,Gombe_Road_6,trunk,9.6998961,11.4629694,paved,2,1.34,21.8,57.7,20.5,6.5,26.65,2.54,,Unknown/Under rehabilitation,15.2,20000,39420000,330.5
+Gombe,266945626,Gombe_Road_7,trunk,9.6935979,11.4862558,paved,2,1.34,22.8,57.6,19.6,6.5,26.65,2.54,,Unknown/Under rehabilitation,14.9,20000,39420000,331.6
+Gombe,266945628,Gombe_Road_9,trunk,9.6942879,11.4915401,paved,2,1.35,22.3,56.7,21,6.6,26.65,2.54,,Unknown/Under rehabilitation,14.8,20000,39420000,331.9
+Gombe,289535958,Gombe_Road_12,trunk,9.9888691,11.2062096,paved,2,1.38,19.4,60.5,20,6.6,26.21,2.63,,Unknown/Under rehabilitation,16.7,20000,39420000,325.8
+Gombe,289535960,Gombe_Road_13,trunk,10.034587,11.2069856,paved,2,1.38,18.6,62.3,19.1,6.7,26.21,2.63,,Unknown/Under rehabilitation,17.4,20000,39420000,323.8
+Gombe,289882887,Gombe_Road_15,trunk,9.7134963,11.415822,paved,2,1.33,17.7,58.3,24,6.4,26.65,2.54,,Unknown/Under rehabilitation,16.1,20000,39420000,327.6
+Gombe,290517692,Gombe_Road_16,trunk,9.6964868,11.5045443,paved,2,1.36,24.3,52.1,23.5,6.6,26.65,2.54,,Unknown/Under rehabilitation,13.1,20000,39420000,338.9
+Gombe,290517693,Gombe_Road_17,trunk,9.7031526,11.5278228,paved,2,1.36,25.9,51.3,22.7,6.8,26.65,2.54,,Unknown/Under rehabilitation,12.5,20000,39420000,341.9
+Imo,204587933,Enugu - Port Harcourt Expressway,trunk,5.7213607,7.3861987,paved,2,1.33,15.2,78.5,6.3,5.3,25.51,4.9,56.1,Hot Mix Asphalt,22.7,20000,39420000,313.1
+Imo,233922623,Enugu - Port Harcourt Expressway,trunk,5.7211835,7.3858778,paved,2,1.32,15.2,79.3,5.5,5.2,25.51,4.9,56.1,Hot Mix Asphalt,22.9,20000,39420000,312.8
+Imo,239121387,Onitsha - Owerri Road,trunk,5.5696466,6.9829127,paved,2,1.31,15.4,76,8.6,5.1,25.75,5.04,35.3,Hot Mix Asphalt,21.8,20000,39420000,314.6
+Jigawa,188836107,kano - Daura Road,trunk,12.8129097,8.3868246,paved,2,1.48,20.5,61.1,18.4,6.5,26.91,1.73,,Unknown/Under rehabilitation,17.1,20000,39420000,324.7
+Jigawa,263636739,Kano-Maiduguri Highway,trunk,11.3829939,9.5231682,paved,2,1.44,13.4,67.7,18.9,6.7,26.72,1.82,1502,Hot Mix Asphalt,20.3,20000,39420000,317.3
+Jigawa,263636740,Kano-Maiduguri Highway,trunk,11.3650548,9.5826028,paved,2,1.47,12.6,68.8,18.7,6.7,26.72,1.82,1502,Hot Mix Asphalt,21,20000,39420000,316
+Jigawa,275759881,Kano-Maiduguri Highway,trunk,11.4278035,9.4874345,paved,2,1.47,14.1,68.5,17.4,6.6,26.72,1.82,1502,Hot Mix Asphalt,20.6,20000,39420000,316.7
+Jigawa,275759884,Kano-Maiduguri Highway,trunk,11.4243685,9.4888769,paved,2,1.47,14,66.9,19.1,6.5,26.72,1.82,1502,Hot Mix Asphalt,20.1,20000,39420000,317.7
+Jigawa,280246890,Kano-Maiduguri Highway,trunk,11.4778824,9.4120907,paved,2,1.47,13.4,70.1,16.5,6.6,26.72,1.82,1502,Hot Mix Asphalt,21.2,20000,39420000,315.6
+Jigawa,280465233,Kano-Maiduguri Highway,trunk,11.4212526,9.4901604,paved,2,1.48,13.5,66.6,20,6.5,26.72,1.82,1502,Hot Mix Asphalt,20.2,20000,39420000,317.5
+Jigawa,280465237,Kano-Maiduguri Highway,trunk,11.4145066,9.4903901,paved,2,1.47,13.1,69.1,17.8,6.6,26.72,1.82,1502,Hot Mix Asphalt,21,20000,39420000,316
+Jigawa,280465243,Kano-Maiduguri Highway,trunk,11.4077954,9.4914905,paved,2,1.46,14.5,67.5,18,6.6,26.72,1.82,1502,Hot Mix Asphalt,20.2,20000,39420000,317.5
+Jigawa,280465257,Kano-Maiduguri Highway,trunk,11.3934965,9.5071676,paved,2,1.45,14.8,64.6,20.6,6.7,26.72,1.82,1502,Hot Mix Asphalt,19.2,20000,39420000,319.5
+Jigawa,281302258,Kano-Maiduguri Highway,trunk,11.3801404,9.8896662,paved,2,1.49,15.4,67.4,17.3,6.6,27.15,1.71,1502,Hot Mix Asphalt,20.1,20000,39420000,317.7
+Jigawa,281302271,Kano-Maiduguri Highway,trunk,11.3459573,9.6418111,paved,2,1.46,14.8,67.4,17.7,6.7,26.72,1.82,1502,Hot Mix Asphalt,20.1,20000,39420000,317.7
+Jigawa,569172888,Kano-Maiduguri Highway,trunk,11.3462391,9.6803383,paved,2,1.44,15.5,63.9,20.6,6.7,26.72,1.82,1502,Hot Mix Asphalt,18.8,20000,39420000,320.4
+Kaduna,39520257,Abuja-Kaduna Highway,trunk,10.2572671,7.3739991,paved,2,1.28,15.4,63.4,21.3,5.7,24.34,3.83,165.5,Continuously Reinforced Concrete Pavement,17.8,20000,39420000,322.8
+Kaduna,39520324,Abuja-Kaduna Highway,trunk,10.4380707,7.4051781,paved,2,1.34,15,62.3,22.7,5.8,24.34,3.83,165.5,Continuously Reinforced Concrete Pavement,17.9,20000,39420000,322.6
+Kaduna,39727124,Kaduna-Jos Highway,trunk,10.672035,7.4905532,paved,2,1.32,14.6,61.9,23.4,6.1,24.34,3.83,199.5,Hot Mix Asphalt,17.8,20000,39420000,322.8
+Kaduna,39727264,Kaduna-Jos Highway,trunk,10.7224537,7.5871407,paved,2,1.33,15.2,59.4,25.4,6.2,24.34,3.83,199.5,Hot Mix Asphalt,16.9,20000,39420000,325.2
+Kaduna,39727268,Kaduna-Jos Highway,trunk,10.6794316,8.2658131,paved,2,1.31,16.3,53.4,30.3,5.9,24.6,3.61,199.5,Hot Mix Asphalt,14.8,20000,39420000,331.9
+Kaduna,39727356,Kaduna-Jos Highway,trunk,10.6558401,7.4764194,paved,2,1.33,13.1,58.2,28.7,6.4,24.34,3.83,199.5,Hot Mix Asphalt,17,20000,39420000,324.9
+Kaduna,39727475,Kaduna-Jos Highway,trunk,10.655698,7.4766128,paved,2,1.33,13.1,58.2,28.7,6.4,24.34,3.83,199.5,Hot Mix Asphalt,17,20000,39420000,324.9
+Kaduna,39727529,Kaduna-Jos Highway,trunk,10.6111375,7.4657037,paved,2,1.34,13.7,63.6,22.7,6.2,24.34,3.83,199.5,Hot Mix Asphalt,18.5,20000,39420000,321.1
+Kano,23581117,Kano-Maiduguri Highway,trunk,11.9219242,8.6380697,paved,2,1.48,17,58.5,24.6,6.2,26.6,1.72,1502,Hot Mix Asphalt,17,20000,39420000,324.9
+Katsina,38895748,Katsina_Road_0,trunk,11.5407107,7.2965653,paved,2,1.3,14.6,45.7,39.8,6.3,24.94,2.39,,Unknown/Under rehabilitation,12.8,20000,39420000,340.4
+Katsina,188836107,kano - Daura Road,trunk,12.8129097,8.3868246,paved,2,1.48,20.5,61.1,18.4,6.5,26.91,1.73,,Unknown/Under rehabilitation,17.1,20000,39420000,324.7
+Katsina,213163317,Katsina_Road_3,trunk,12.9006452,7.6537367,paved,2,1.47,16.3,70.7,12.9,6.1,26.84,1.89,,Unknown/Under rehabilitation,20.8,20000,39420000,316.3
+Katsina,213163318,Katsina_Road_4,trunk,12.9049498,7.6515791,paved,2,1.47,16.2,71.2,12.6,6.1,26.84,1.89,,Unknown/Under rehabilitation,21,20000,39420000,316
+Katsina,213163319,Katsina_Road_5,trunk,12.9194619,7.6464862,paved,2,1.47,17.8,67.9,14.3,6,26.84,1.89,,Unknown/Under rehabilitation,19.7,20000,39420000,318.5
+Katsina,213163323,IBB Way,trunk,12.9536198,7.6349544,paved,2,1.47,19.7,67.5,12.8,6,26.84,1.89,,Unknown/Under rehabilitation,19.2,20000,39420000,319.5
+Katsina,242477053,Katsina_Road_19,trunk,12.2961185,8.0704007,paved,2,1.48,17.3,65.8,16.9,6.1,26.38,1.85,,Unknown/Under rehabilitation,19.2,20000,39420000,319.5
+Kebbi,169836438,Kebbi_Road_0,trunk,10.9087478,4.7584621,paved,2,1.4,21.5,66.5,12,6.2,26.97,3.05,,Unknown/Under rehabilitation,18.1,20000,39420000,322.1
+Kebbi,169836440,Kebbi_Road_1,trunk,10.8928621,4.753846,paved,2,1.41,14.7,75.9,9.4,6,26.97,3.05,,Unknown/Under rehabilitation,22.4,20000,39420000,313.6
+Kebbi,170618912,Kebbi_Road_2,trunk,12.2176198,4.3714313,paved,2,1.48,19.9,55.2,25,6.1,27.67,2.21,,Unknown/Under rehabilitation,15.5,20000,39420000,329.5
+Kebbi,170618913,Kebbi_Road_3,trunk,12.206776,4.3677208,paved,2,1.49,26.4,46.2,27.4,6.1,27.67,2.21,,Unknown/Under rehabilitation,11.5,20000,39420000,347.4
+Kebbi,208117920,Kebbi_Road_10,trunk,11.8123475,4.4276149,paved,2,1.5,17.5,57.4,25.2,6.6,27.67,2.21,,Unknown/Under rehabilitation,16.7,20000,39420000,325.8
+Kebbi,208117938,Kebbi_Road_13,trunk,12.1963693,4.3650157,paved,2,1.48,29.6,44.3,26.1,6.2,27.67,2.21,,Unknown/Under rehabilitation,10.3,20000,39420000,355.5
+Kebbi,208117939,Kebbi_Road_14,trunk,12.1883702,4.3663154,paved,2,1.48,30,43.8,26.3,6.1,27.67,2.21,,Unknown/Under rehabilitation,10,20000,39420000,357.9
+Kebbi,208117944,Kebbi_Road_16,trunk,11.8454526,4.4162835,paved,2,1.51,16.3,53.9,29.8,6.6,27.67,2.21,,Unknown/Under rehabilitation,16,20000,39420000,327.9
+Kebbi,208117949,Kebbi_Road_18,trunk,11.779074,4.4390296,paved,2,1.5,18.6,51,30.5,6.5,27.67,2.21,,Unknown/Under rehabilitation,14.6,20000,39420000,332.7
+Kogi,79965711,Kogi_Road_2,trunk,7.0834319,7.6687617,paved,2,1.35,19.2,54.5,26.3,5.6,25.19,3.75,,Unknown/Under rehabilitation,14.8,20000,39420000,331.9
+Kogi,80358313,Kogi_Road_5,trunk,8.2236793,5.7817604,paved,2,1.35,21,57,21.9,6,25.86,3.11,,Unknown/Under rehabilitation,15.1,20000,39420000,330.9
+Kogi,171016051,Kogi_Road_8,trunk,7.5407827,6.2461849,paved,2,1.33,17.4,69.7,12.9,5.9,25.75,3.35,,Unknown/Under rehabilitation,19.6,20000,39420000,318.7
+Kogi,232835002,Kogi_Road_11,trunk,7.8315318,6.6483463,paved,2,1.37,16.3,67.8,15.9,6.1,26.92,2.96,,Unknown/Under rehabilitation,19.4,20000,39420000,319.1
+Kogi,232835004,Kogi_Road_13,trunk,7.8308454,6.6460011,paved,2,1.36,16.5,68.4,15,6.2,26.92,2.96,,Unknown/Under rehabilitation,19.5,20000,39420000,318.9
+Kogi,232835005,Kogi_Road_14,trunk,7.824858,6.5853697,paved,2,1.38,14.3,65.4,20.4,5.9,26.92,2.96,,Unknown/Under rehabilitation,19.2,20000,39420000,319.5
+Kogi,232835007,Okene Abuja Expressway,trunk,7.826454,6.6157125,paved,2,1.36,14.9,69.9,15.2,6.3,26.92,2.96,,Unknown/Under rehabilitation,20.3,20000,39420000,317.3
+Kogi,232835009,Kogi_Road_17,trunk,7.7369733,6.4923325,paved,2,1.37,22.3,53.6,24.2,5.9,25.75,3.35,,Unknown/Under rehabilitation,14,20000,39420000,335
+Kogi,232835011,Kogi_Road_19,trunk,7.8324236,6.650844,paved,2,1.36,16.1,66.9,17,6.1,26.92,2.96,,Unknown/Under rehabilitation,19.2,20000,39420000,319.5
+Kwara,80358295,Kaiama Road,trunk,8.7122799,4.1879791,paved,2,1.32,14.3,67,18.7,6.2,25.57,3.35,54,Continuously Reinforced Concrete Pavement,19.3,20000,39420000,319.3
+Kwara,80358324,Kwara_Road_3,trunk,8.5809929,4.7084076,paved,2,1.34,13.9,72.3,13.8,6.2,26.18,2.93,,Unknown/Under rehabilitation,21.1,20000,39420000,315.8
+Kwara,170525586,Kwara_Road_7,trunk,8.9338076,4.7913429,paved,2,1.33,18.6,62.8,18.6,6.2,27.26,2.62,,Unknown/Under rehabilitation,17.3,20000,39420000,324.1
+Kwara,203901896,Airport Road,trunk,8.426155,4.4896168,paved,2,1.37,14.2,78.6,7.3,5.9,25.57,3.35,,Unknown/Under rehabilitation,23.1,20000,39420000,312.5
+Kwara,203901917,Airport Road,trunk,8.4263669,4.4894516,paved,2,1.37,12.1,78,9.9,5.9,25.57,3.35,,Unknown/Under rehabilitation,23.3,20000,39420000,312.2
+Nasarawa,79854121,Nasarawa_Road_2,trunk,8.8437851,7.9178365,paved,2,1.32,20.1,65.7,14.2,5.8,26.1,3,,Unknown/Under rehabilitation,17.8,20000,39420000,322.8
+Nasarawa,79968042,Abuja-Keffi Expressway,trunk,8.9651512,7.6641777,paved,2,1.31,16.8,67.8,15.4,5.8,25.63,3.24,220,Hot Mix Asphalt,19,20000,39420000,320
+Nasarawa,79968047,Abuja-Keffi Expressway,trunk,8.8831929,7.7946451,paved,2,1.34,20.9,60.4,18.8,5.7,25.63,3.24,220,Hot Mix Asphalt,16.1,20000,39420000,327.6
+Nasarawa,79968055,Abuja-Keffi Expressway,trunk,8.9142887,7.7063488,paved,2,1.35,17.8,68.6,13.7,5.8,25.63,3.24,220,Hot Mix Asphalt,19.3,20000,39420000,319.3
+Niger,26159655,Niger_Road_0,trunk,9.1658528,4.8315279,paved,2,1.37,18.2,63.8,18,6.2,27.26,2.62,,Unknown/Under rehabilitation,17.8,20000,39420000,322.8
+Niger,30051513,Niger_Road_4,trunk,9.1447779,5.8357256,paved,2,1.32,17.4,58.1,24.5,5.8,27.51,2.65,,Unknown/Under rehabilitation,16.1,20000,39420000,327.6
+Niger,30051514,Niger_Road_5,trunk,9.1156214,5.9295339,paved,2,1.36,15,66.2,18.8,6,27.51,2.65,,Unknown/Under rehabilitation,19.2,20000,39420000,319.5
+Niger,30052295,Niger_Road_7,trunk,9.2630842,5.2835935,paved,2,1.4,17,59.4,23.7,6.1,27.26,2.73,,Unknown/Under rehabilitation,16.9,20000,39420000,325.2
+Niger,161391577,Niger_Road_8,trunk,10.2927013,5.4167169,paved,2,1.31,10.6,76.5,12.8,6.6,26.04,3.27,,Unknown/Under rehabilitation,22.9,20000,39420000,312.8
+Niger,169836439,Niger_Road_9,trunk,10.7005324,4.8129621,paved,2,1.39,19.1,66.8,14.2,6.3,26.48,3.33,,Unknown/Under rehabilitation,18.7,20000,39420000,320.7
+Niger,169836442,Niger_Road_10,trunk,10.6592006,4.8663361,paved,2,1.36,21.9,57.3,20.7,6.2,26.48,3.33,,Unknown/Under rehabilitation,15.1,20000,39420000,330.9
+Niger,202053045,Niger_Road_11,trunk,10.4000993,5.5258697,paved,2,1.29,13.6,68,18.4,6.1,26.04,3.27,,Unknown/Under rehabilitation,19.6,20000,39420000,318.7
+Niger,208295002,Niger_Road_13,trunk,10.771078,4.7784233,paved,2,1.39,16.1,70.1,13.9,6.2,26.97,3.05,,Unknown/Under rehabilitation,20.3,20000,39420000,317.3
+Niger,214502471,Niger_Road_14,trunk,9.2512585,7.0362959,paved,2,1.31,12.5,68.6,18.9,6,25.71,3.41,,Unknown/Under rehabilitation,20.1,20000,39420000,317.7
+Niger,214502531,Abuja-Kaduna Highway,trunk,9.209283,7.2281844,paved,2,1.3,15.5,64.9,19.6,5.7,25.63,3.24,165.5,Continuously Reinforced Concrete Pavement,18.4,20000,39420000,321.3
+Niger,227234555,Niger_Road_17,trunk,10.0530852,5.997072,paved,2,1.33,14.5,64.1,21.4,6,26.04,3.46,,Unknown/Under rehabilitation,18.5,20000,39420000,321.1
+Niger,227234556,Niger_Road_18,trunk,10.066213,6.0863059,paved,2,1.32,13.6,66.5,19.9,5.9,26.04,3.46,,Unknown/Under rehabilitation,19.3,20000,39420000,319.3
+Niger,229278615,Niger_Road_19,trunk,10.4897702,5.1382066,paved,2,1.34,13.6,66.4,20,6.2,26.48,3.33,,Unknown/Under rehabilitation,19.4,20000,39420000,319.1
+Ogun,207523527,Idi-Iroko Road,trunk,6.6999197,2.917744,paved,2,1.22,28.8,44.8,26.4,5.6,26.38,4.23,,Unknown/Under rehabilitation,9.3,20000,39420000,363.9
+Ogun,207523529,Idi-Iroko Road,trunk,6.699327,2.9501714,paved,2,1.38,18.2,67.7,14.1,5.7,26.38,4.23,,Unknown/Under rehabilitation,19.1,20000,39420000,319.8
+Ogun,225556120,Ogun_Road_16,trunk,6.9883787,3.6679265,paved,2,1.33,20.3,63.2,16.5,5.9,25.58,4.69,,Unknown/Under rehabilitation,17.1,20000,39420000,324.7
+Ondo,256659747,Akure-Owo Express Road,trunk,7.0990264,5.572819,paved,2,1.34,21.2,62.8,15.9,5.4,25.15,4.3,48,Hot Mix Asphalt,16.8,20000,39420000,325.5
+Ondo,534722629,Akure-Owo Express Road,trunk,6.924151,5.7670948,paved,2,1.37,18.4,65.2,16.4,5.5,25.15,4.3,48,Hot Mix Asphalt,18.2,20000,39420000,321.8
+Ondo,534722630,Akure-Owo Express Road,trunk,6.9229411,5.767975,paved,2,1.37,18.7,65.2,16.1,5.5,25.15,4.3,48,Hot Mix Asphalt,18.2,20000,39420000,321.8
+Ondo,534722631,Akure-Owo Express Road,trunk,6.9227625,5.7681572,paved,2,1.37,18.7,65.2,16.1,5.5,25.15,4.3,48,Hot Mix Asphalt,18.2,20000,39420000,321.8
+Ondo,534722634,Akure-Owo Express Road,trunk,6.9199087,5.770872,paved,2,1.35,18.3,63.1,18.5,5.4,25.15,4.3,48,Hot Mix Asphalt,17.5,20000,39420000,323.6
+Osun,30044261,Ile-Ife Expressway,trunk,7.367235,4.0828586,paved,2,1.3,20.9,62.6,16.5,6.1,24.95,4.7,,Unknown/Under rehabilitation,16.6,20000,39420000,326.1
+Osun,246809961,Ile-Ife Expressway,trunk,7.3579493,4.1318297,paved,2,1.39,15.4,66.6,18.1,6.2,24.95,4.7,,Unknown/Under rehabilitation,19.3,20000,39420000,319.3
+Osun,246809962,Ile-Ife Expressway,trunk,7.3577459,4.1316574,paved,2,1.39,15.4,66.6,18.1,6.2,24.95,4.7,,Unknown/Under rehabilitation,19.3,20000,39420000,319.3
+Osun,246809964,Ile-Ife Expressway,trunk,7.3652038,4.1552634,paved,2,1.33,16.1,61.6,22.3,6,24.95,4.7,,Unknown/Under rehabilitation,17.4,20000,39420000,323.8
+Osun,256571870,Ile-Ife Expressway,trunk,7.3653609,4.1552494,paved,2,1.33,16.1,61.6,22.3,6,24.95,4.7,,Unknown/Under rehabilitation,17.4,20000,39420000,323.8
+Oyo,30044261,Ile-Ife Expressway,trunk,7.367235,4.0828586,paved,2,1.3,20.9,62.6,16.5,6.1,24.95,4.7,,Unknown/Under rehabilitation,16.6,20000,39420000,326.1
+Oyo,30044431,Old Abeokuta Road,trunk,7.382763,3.8475759,paved,2,1.39,18.1,64,17.9,6.6,25.21,4.58,81,Hot Mix Asphalt,18,20000,39420000,322.3
+Oyo,30045009,Oyo_Road_8,trunk,7.2640923,3.8588593,paved,2,1.31,22.5,61,16.5,6.2,25.21,4.58,81,Hot Mix Asphalt,15.9,20000,39420000,328.2
+Oyo,30045033,Oyo_Road_10,trunk,7.2896708,3.8639883,paved,2,1.35,20.7,61.4,17.9,6.2,25.21,4.58,81,Hot Mix Asphalt,16.5,20000,39420000,326.4
+Oyo,30045034,Oyo_Road_11,trunk,7.2858204,3.8633309,paved,2,1.35,20.8,61.5,17.7,6.2,25.21,4.58,81,Hot Mix Asphalt,16.5,20000,39420000,326.4
+Plateau,205106809,Plateau_Road_0,trunk,9.5119077,8.5867213,paved,2,1.22,27.3,48.5,24.1,5.5,23.35,2.57,,Unknown/Under rehabilitation,10.7,20000,39420000,352.6
+Plateau,205206238,Plateau_Road_1,trunk,9.6030434,8.6859078,paved,2,1.18,23.4,47.3,29.3,5.6,23.35,2.57,,Unknown/Under rehabilitation,10.9,20000,39420000,351.3
+Plateau,205206241,Plateau_Road_4,trunk,9.6333845,8.7528333,paved,2,1.21,27,46.4,26.6,5.3,23.35,2.57,,Unknown/Under rehabilitation,10.1,20000,39420000,357.1
+Plateau,205206242,Plateau_Road_5,trunk,9.6001445,8.7123574,paved,1,1.17,25.2,40.6,34.1,5.6,23.35,2.57,,Unknown/Under rehabilitation,8.5,20000,39420000,372
+Plateau,205206243,Plateau_Road_6,trunk,9.6001445,8.7123574,paved,1,1.17,25.2,40.6,34.1,5.6,23.35,2.57,,Unknown/Under rehabilitation,8.5,20000,39420000,372
+Plateau,205206245,Plateau_Road_7,trunk,9.6172527,8.7331162,paved,2,1.2,26,43.8,30.2,5.4,23.35,2.57,,Unknown/Under rehabilitation,9.4,20000,39420000,363
+Plateau,205262842,Plateau_Road_10,trunk,9.7039573,8.8363294,paved,1,1.22,27.3,45.2,27.5,5.3,23.35,2.57,,Unknown/Under rehabilitation,9.7,20000,39420000,360.3
+Plateau,205262843,Plateau_Road_11,trunk,9.6906119,8.8152614,paved,2,1.21,31.1,46.8,22.1,5.3,23.35,2.57,,Unknown/Under rehabilitation,9.4,20000,39420000,363
+Plateau,205262844,Plateau_Road_12,trunk,9.6782803,8.7952545,paved,2,1.22,29.9,48.5,21.6,5.4,23.35,2.57,,Unknown/Under rehabilitation,10.2,20000,39420000,356.3
+Plateau,205262847,Plateau_Road_13,trunk,9.7039573,8.8363294,paved,1,1.22,27.3,45.2,27.5,5.3,23.35,2.57,,Unknown/Under rehabilitation,9.7,20000,39420000,360.3
+Plateau,205262849,Plateau_Road_14,trunk,9.7062117,8.8386723,paved,2,1.22,25.6,45.5,29,5.3,23.35,2.57,,Unknown/Under rehabilitation,10.1,20000,39420000,357.1
+Plateau,205287991,Plateau_Road_15,trunk,9.7412461,8.8611314,paved,2,1.22,25.7,47.7,26.5,5.3,23.35,2.57,,Unknown/Under rehabilitation,10.8,20000,39420000,351.9
+Sokoto,208117936,Sokoto_Road_3,trunk,11.6670844,4.4918594,paved,2,1.48,15.2,55.3,29.4,6.5,27.62,2.53,,Unknown/Under rehabilitation,16.5,20000,39420000,326.4
+Sokoto,208117943,Sokoto_Road_4,trunk,11.6648084,4.4923325,paved,2,1.48,16.5,54.2,29.4,6.5,27.62,2.53,,Unknown/Under rehabilitation,15.9,20000,39420000,328.2
+Sokoto,208117950,Sokoto_Road_5,trunk,11.6658876,4.4921129,paved,2,1.48,16.5,54.2,29.4,6.5,27.62,2.53,,Unknown/Under rehabilitation,15.9,20000,39420000,328.2
+Sokoto,208117952,Sokoto_Road_6,trunk,11.5448917,4.4969607,paved,2,1.49,17.4,59.5,23.1,6.5,27.62,2.53,,Unknown/Under rehabilitation,17.3,20000,39420000,324.1
+Sokoto,208788868,Sokoto_Road_8,trunk,13.0786083,5.2627182,paved,2,1.45,23.7,54.6,21.7,6.4,27.84,1.91,,Unknown/Under rehabilitation,14.4,20000,39420000,333.4
+Sokoto,208788875,Sokoto_Road_11,trunk,12.8353324,5.1285102,paved,2,1.46,15.8,63.4,20.8,6.1,27.84,1.91,,Unknown/Under rehabilitation,18.7,20000,39420000,320.7
+Sokoto,208788881,Sokoto_Road_14,trunk,12.9319632,5.1894231,paved,1,1.45,15.8,63.7,20.4,6,27.84,1.91,,Unknown/Under rehabilitation,18.7,20000,39420000,320.7
+Sokoto,208788899,Sokoto_Road_17,trunk,12.9738485,5.2032608,paved,2,1.45,13.7,64.8,21.4,6.1,27.84,1.91,,Unknown/Under rehabilitation,19.4,20000,39420000,319.1
+Sokoto,208788904,Sokoto_Road_18,trunk,12.973869,5.2031064,paved,2,1.45,13.7,64.8,21.4,6.1,27.84,1.91,,Unknown/Under rehabilitation,19.4,20000,39420000,319.1
+Taraba,41095841,Taraba_Road_0,trunk,8.4944228,10.6218731,paved,2,1.31,16.1,61.1,22.7,6,26.72,3.51,,Unknown/Under rehabilitation,17.2,20000,39420000,324.4
+Taraba,41095842,Taraba_Road_1,trunk,8.9203316,11.3220971,paved,2,1.36,21.6,46.5,32,6,26.83,2.58,,Unknown/Under rehabilitation,11.9,20000,39420000,345.1
+Taraba,41095843,Taraba_Road_2,trunk,8.9273819,11.3281634,paved,2,1.35,21.2,47,31.7,5.9,26.83,2.58,,Unknown/Under rehabilitation,12.1,20000,39420000,344
+Taraba,206886344,Taraba_Road_8,trunk,9.1513112,11.5713326,paved,2,1.36,20.5,52.8,26.7,6.2,26.15,2.88,,Unknown/Under rehabilitation,14,20000,39420000,335
+Taraba,236229871,Taraba_Road_13,trunk,7.7764442,9.7643315,paved,2,1.35,13.4,70.5,16.2,5.3,26.3,3.51,,Unknown/Under rehabilitation,20.7,20000,39420000,316.5
+Taraba,236229872,Taraba_Road_14,trunk,7.6741897,9.7377429,paved,2,1.35,11.6,72.2,16.1,5.7,25.56,4.36,,Unknown/Under rehabilitation,21.6,20000,39420000,314.9
+Taraba,236229873,Taraba_Road_15,trunk,7.696462,9.7431881,paved,2,1.34,13.7,70,16.4,5.6,25.56,4.36,,Unknown/Under rehabilitation,20.5,20000,39420000,316.9
+Taraba,236229875,Taraba_Road_17,trunk,7.6492303,9.7286945,paved,2,1.36,11.4,71.6,17,5.9,25.56,4.36,,Unknown/Under rehabilitation,21.5,20000,39420000,315.1
+Taraba,236402747,Taraba_Road_19,trunk,7.8060756,9.7741189,paved,2,1.35,11.9,72.3,15.8,5.3,26.3,3.51,,Unknown/Under rehabilitation,21.6,20000,39420000,314.9
+Yobe,207063301,Kano-Maiduguri Highway,trunk,11.6772896,11.3540863,paved,2,1.48,8.9,75.9,15.2,6.4,27.2,1.82,1502,Hot Mix Asphalt,23.9,20000,39420000,311.3
+Yobe,228985737,Kano-Maiduguri Highway,trunk,11.6988787,11.0692689,paved,2,1.45,14.7,73.2,12.1,6.5,27.2,1.82,1502,Hot Mix Asphalt,21.8,20000,39420000,314.6
+Yobe,233440029,Kano-Maiduguri Highway,trunk,11.7052719,11.7452727,paved,2,1.49,10.6,77.1,12.3,6.2,27.4,1.83,1502,Hot Mix Asphalt,24,20000,39420000,311.2
+Yobe,233505120,Kano-Maiduguri Highway,trunk,11.685789,11.1907434,paved,2,1.45,11.4,79.5,9.1,6.6,27.2,1.82,1502,Hot Mix Asphalt,24.3,20000,39420000,310.8
+Yobe,233505122,Kano-Maiduguri Highway,trunk,11.675602,11.2605914,paved,2,1.43,12.1,80.1,7.8,6.6,27.2,1.82,1502,Hot Mix Asphalt,24.3,20000,39420000,310.8
+Yobe,233505131,Kano-Maiduguri Highway,trunk,11.6859427,11.19085,paved,2,1.45,11.4,79.5,9.1,6.6,27.2,1.82,1502,Hot Mix Asphalt,24.3,20000,39420000,310.8
+Yobe,233505132,Kano-Maiduguri Highway,trunk,11.6907993,11.1657614,paved,2,1.43,11,78.1,10.9,6.6,27.2,1.82,1502,Hot Mix Asphalt,23.9,20000,39420000,311.3
+Zamfara,169955420,Zamfara_Road_0,trunk,12.2595866,6.557053,paved,2,1.42,14.6,63.3,22.1,6.3,27.23,2.01,,Unknown/Under rehabilitation,18.7,20000,39420000,320.7
+Zamfara,252593194,Zamfara_Road_1,trunk,12.2656777,6.5802028,paved,2,1.42,15.7,61.5,22.7,6.3,26.91,2.02,,Unknown/Under rehabilitation,17.9,20000,39420000,322.6
+Zamfara,252593195,Zamfara_Road_2,trunk,12.2694309,6.5687258,paved,2,1.42,15.2,63.4,21.4,6.4,26.91,2.02,,Unknown/Under rehabilitation,18.6,20000,39420000,320.9
+Zamfara,252593245,Zamfara_Road_3,trunk,12.1960724,6.6559801,paved,2,1.43,15.6,63.2,21.2,6.4,26.11,2.05,,Unknown/Under rehabilitation,18.5,20000,39420000,321.1
+Zamfara,252593246,Zamfara_Road_4,trunk,12.1959894,6.6559377,paved,2,1.43,15.6,63.2,21.2,6.4,26.11,2.05,,Unknown/Under rehabilitation,18.5,20000,39420000,321.1
+Zamfara,253686209,Zamfara_Road_6,trunk,12.1493203,6.7136363,paved,2,1.42,16.5,61.3,22.1,6.3,26.11,2.05,,Unknown/Under rehabilitation,17.7,20000,39420000,323.1
+Zamfara,260545344,Zamfara_Road_7,trunk,12.3537293,6.3663052,paved,2,1.41,17.7,64.5,17.8,6.5,27.23,2.01,,Unknown/Under rehabilitation,18.4,20000,39420000,321.3
+Zamfara,260545345,Zamfara_Road_8,trunk,12.2481179,6.5095824,paved,2,1.42,14.9,64,21.1,6.3,26.94,2.04,,Unknown/Under rehabilitation,18.8,20000,39420000,320.4
+Zamfara,260545348,Zamfara_Road_9,trunk,12.3499772,6.3500932,paved,2,1.43,16.9,65.9,17.2,6.6,27.23,2.01,,Unknown/Under rehabilitation,19,20000,39420000,320
+Zamfara,260545355,Zamfara_Road_12,trunk,12.3320864,6.3942296,paved,2,1.43,19.3,61.9,18.8,6.6,27.23,2.01,,Unknown/Under rehabilitation,17.4,20000,39420000,323.8
+Zamfara,260545356,Zamfara_Road_13,trunk,12.2497762,6.4931598,paved,2,1.43,14.7,62.1,23.2,6.4,26.94,2.04,,Unknown/Under rehabilitation,18.3,20000,39420000,321.6
+Zamfara,260545359,Zamfara_Road_14,trunk,12.3475164,6.3389871,paved,1,1.45,18.2,61.2,20.6,6.4,27.23,2.01,,Unknown/Under rehabilitation,17.5,20000,39420000,323.6
+Zamfara,260545360,Zamfara_Road_15,trunk,12.2480385,6.516521,paved,2,1.43,15.2,63.3,21.5,6.3,26.94,2.04,,Unknown/Under rehabilitation,18.6,20000,39420000,320.9
+Zamfara,260545361,Zamfara_Road_16,trunk,12.28092,6.4398674,paved,2,1.44,16.9,61.3,21.8,6.5,27.23,2.01,,Unknown/Under rehabilitation,17.7,20000,39420000,323.1
+Zamfara,260545362,Zamfara_Road_17,trunk,12.3420716,6.3767892,paved,2,1.39,17.1,65.4,17.4,6.5,27.23,2.01,,Unknown/Under rehabilitation,18.6,20000,39420000,320.9
+Zamfara,260545364,Zamfara_Road_19,trunk,12.5773074,6.0018062,paved,2,1.5,14.8,58.2,27.1,6.5,27.23,2.01,,Unknown/Under rehabilitation,17.5,20000,39420000,323.6
