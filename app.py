@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib
+import pickle
 
 # -------------------------------
 # Load trained pipeline & label encoder
@@ -8,9 +8,9 @@ import joblib
 MODEL_PATH = "models_classification/final_model_pipeline.pkl"
 LE_PATH = "models_classification/label_encoder.pkl"
 
-model = joblib.load(MODEL_PATH)
+model = pickle.load(MODEL_PATH)
 try:
-    le = joblib.load(LE_PATH)  # if saved separately
+    le = pickle.load(LE_PATH)  # if saved separately
 except:
     le = None
 
