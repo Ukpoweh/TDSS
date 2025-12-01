@@ -1,24 +1,24 @@
 import streamlit as st
 import pandas as pd
-import pickle
+import joblib
 
 # -------------------------------
 # Load trained pipeline & label encoder
 # -------------------------------
-MODEL_PATH = "models_classification/final_model_pipeline.pkl"
+MODEL_PATH = "models_classification/random_forest_tuned_pipeline.pkl"
 LE_PATH = "models_classification/label_encoder.pkl"
 
 @st.cache_resource
 def load_model():
     with open(MODEL_PATH, "rb") as f:
-        model = pickle.load(f)
+        model = joblib.load(f)
     return model
 
 model = load_model()
 
 try:
     with open(LE_PATH, "rb") as f:
-        le = pickle.load(f) # if saved separately
+        le = joblib.load(f) # if saved separately
 except:
     le = None
 
@@ -99,6 +99,8 @@ def main():
         st.dataframe(input_data)
 
         if st.button("Predict Rehabilitation Material"):
+            #st.write("🔍 Model Feature Names:", model.feature_names_in_)
+
             prediction = model.predict(input_data)[0]
 
             if le:
