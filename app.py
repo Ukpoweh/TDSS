@@ -1,6 +1,17 @@
 import streamlit as st
 import pandas as pd
 import joblib
+# Required so joblib can find classes when unpickling
+import xgboost
+import lightgbm
+import catboost
+from xgboost import XGBClassifier
+from lightgbm import LGBMClassifier
+from catboost import CatBoostClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neural_network import MLPClassifier
+
 
 # -------------------------------
 # Load trained pipeline & label encoder
