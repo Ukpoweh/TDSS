@@ -5,20 +5,18 @@ import joblib
 # -------------------------------
 # Load trained pipeline & label encoder
 # -------------------------------
-MODEL_PATH = "models_classification/random_forest_tuned_pipeline.pkl"
+MODEL_PATH = "models_classification/final_model_pipeline.pkl"
 LE_PATH = "models_classification/label_encoder.pkl"
 
 @st.cache_resource
 def load_model():
-    with open(MODEL_PATH, "rb") as f:
-        model = joblib.load(f)
+    model = joblib.load("models_classification/final_model_pipeline.pkl")
     return model
 
 model = load_model()
 
 try:
-    with open(LE_PATH, "rb") as f:
-        le = joblib.load(f) # if saved separately
+    le = joblib.load("models_classification/label_encoder.pkl") # if saved separately
 except:
     le = None
 
